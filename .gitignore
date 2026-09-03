@@ -1,0 +1,18 @@
+# Ambiente virtual
+.venv/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+
+# Configuracao local
+.env
+
+# Banco local e arquivos auxiliares
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Arquivos do macOS
+.DS_Store
