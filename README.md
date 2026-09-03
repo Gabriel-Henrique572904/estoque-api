@@ -329,8 +329,8 @@ As frentes de trabalho incluem definição do problema e das regras, arquitetura
 
 | Recurso | Endereço |
 | --- | --- |
-| Repositório GitHub | **Pendente: inserir a URL do repositório do grupo.** |
-| Quadro Trello | **Pendente: inserir a URL do quadro do grupo.** |
+| Repositório GitHub | [Estoque API no GitHub](https://github.com/Gabriel-Henrique572904/estoque-api) |
+| Quadro Trello | [Estoque API — Checkpoint 1](https://trello.com/b/ONvTBjr3/estoque-api-checkpoint-1) |
 | Swagger local | [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) |
 | OpenAPI local | [http://127.0.0.1:8000/openapi.json](http://127.0.0.1:8000/openapi.json) |
 
